@@ -1,6 +1,7 @@
 {
     "cSpell.words": [
-        "devcontainer"
+        "devcontainer",
+        "pega"
     ],
     "cSpell.customDictionaries": {
         "custom-dictionary-workspace": {
@@ -9,5 +10,6 @@
             "addWords": true,
             "scope": "workspace"
         }
-    }
+    },
+    "cSpell.language": "en,pt,pt-BR"
 }
